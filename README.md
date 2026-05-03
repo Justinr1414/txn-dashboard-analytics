@@ -1,5 +1,13 @@
 # Transaction Analytics Dashboard (Power BI)
 
+## Dashboard Preview
+
+![Dashboard Overview](Dashboard.jpg)
+
+![Trend Analysis](Dashboard2.jpg)
+
+![KPI View](Dashboard3.jpg)
+
 ## Overview
 
 This project highlights a transaction analytics dashboard designed to track performance trends across multiple time periods, including daily, weekly, monthly, and quarterly views.
@@ -29,4 +37,3 @@ The dashboard focuses on identifying changes in transaction volume, measuring gr
 ## Note
 
 This project is based on professional experience and has been adapted to remove any proprietary or sensitive data.
-
