@@ -11,6 +11,7 @@ The dashboard focuses on identifying changes in transaction volume, measuring gr
 * Power BI
 * DAX (Data Analysis Expressions)
 * Excel (data preparation)
+* Power Automate
 
 ## Key Features
 
